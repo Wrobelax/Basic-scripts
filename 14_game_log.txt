@@ -1,0 +1,9 @@
+Player Adrian guessed after 3 try. Given a choice of 10 numbers. --- 2022-05-10 16:30:22.
+Player Adrian guessed after 4 try. Given a choice of 10 numbers. --- 2022-05-10 16:30:22.
+Player Adrian guessed after 1 try. Given a choice of 5 numbers. --- 2022-05-10 16:30:22.
+Player Adrian guessed after 4 try. Given a choice of 2 numbers. --- 2022-05-10 16:30:22.
+Player adrian guessed after 1 try. Given a choice of 4 numbers. --- 2022-05-10 16:30:22.
+Player Adrian guessed after 1 try. Given a choice of 4 numbers. --- 2022-05-10 16:30:22.
+Player adrian guessed after 8 try. Given a choice of 10 numbers. --- 2022-05-10 16:30:22.
+Player adrian guessed after 5 try. Given a choice of 10 numbers. --- 2022-05-10 16:30:22.
+Player Adrian guessed after 3 try. Given a choice of 10 numbers. --- 2022-05-10 16:30:22.
